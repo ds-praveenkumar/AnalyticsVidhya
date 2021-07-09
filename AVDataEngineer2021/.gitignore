@@ -1,0 +1,7 @@
+**/*.csv
+**.scala
+.idea
+spark-warehouse
+data
+src/main/resources
+**/*.iml
