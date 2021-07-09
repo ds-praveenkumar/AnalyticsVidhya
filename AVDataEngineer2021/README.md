@@ -1,4 +1,4 @@
-# Analytic Vidhya Data Engineering Hackathon
+# Analytic Vidhya Data Engineering JOB-A-THON June-2021
 
 - [Hackathon Link](https://datahack.analyticsvidhya.com/contest/job-a-thon-june-2021/)
 ## Prerequisite
